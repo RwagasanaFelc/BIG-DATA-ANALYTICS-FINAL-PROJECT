@@ -1,0 +1,13 @@
+﻿# Generated dataset (several GB; regenerate with dataset_generator.py)
+users.json
+products.json
+categories.json
+transactions.json
+sessions_*.json
+
+# Python / Spark artifacts
+__pycache__/
+*.pyc
+spark-warehouse/
+metastore_db/
+derby.log
